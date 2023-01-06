@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="text_second_activity">Current value of the counter</string>
+    <string name="counter_button">Counter</string>
+    <string name="result_button">Result</string>
+    <string name="results">Current value of the counter</string>
+</resources>

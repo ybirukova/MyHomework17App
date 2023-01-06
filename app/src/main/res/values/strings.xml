@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Мой проект</string>
+    <string name="text_second_activity">Текущее значение счетчика</string>
+    <string name="counter_button">Счетчик</string>
+    <string name="result_button">Результат</string>
+    <string name="results">Текущее значение счетчика</string>
+</resources>
